@@ -1,4 +1,4 @@
-![image alt](https://github.com/2197natashacruz-droid/2197natashacruz-droid/commit/c06fdfc76841b43afbf8e3921ab7e24970e1ce60)
+![image alt](natasha_glitch_banner.gif)
 
 
 ## Hi there 👋
