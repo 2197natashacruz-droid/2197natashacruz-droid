@@ -1,4 +1,4 @@
-![image alt](https://github.com/2197natashacruz-droid/2197natashacruz-droid/blob/main/ChatGPT%20Image%2017%20mar%202026%2C%2004_40_10%20p.m..png)
+![image alt](https://github.com/2197natashacruz-droid/2197natashacruz-droid/commit/c06fdfc76841b43afbf8e3921ab7e24970e1ce60)
 
 
 ## Hi there 👋
