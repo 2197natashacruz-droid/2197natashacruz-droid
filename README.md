@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/natas/Downloads/ChatGPT%20Image%2017%20mar%202026,%2004_40_10%20p.m..png" width="100%"/> 
+![image alt](https://github.com/2197natashacruz-droid/2197natashacruz-droid/blob/main/ChatGPT%20Image%2017%20mar%202026%2C%2004_40_10%20p.m..png)
 
 
 ## Hi there 👋
