@@ -1,3 +1,6 @@
+<img src="banner-git.png" width="100%"/> 
+
+
 ## Hi there 👋
 
 <!--
