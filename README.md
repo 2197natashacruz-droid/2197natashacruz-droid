@@ -1,4 +1,4 @@
-<img src="banner-git.png" width="100%"/> 
+<img src="file:///C:/Users/natas/Downloads/ChatGPT%20Image%2017%20mar%202026,%2004_40_10%20p.m..png" width="100%"/> 
 
 
 ## Hi there 👋
